@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/grey-info-icon.f15914ed.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/grey-info-icon.svg
+// module id = 1579
+// module chunks = 0

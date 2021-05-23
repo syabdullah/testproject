@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/icon-warning-outline.9aab250a.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/icon-warning-outline.svg
+// module id = 2066
+// module chunks = 0

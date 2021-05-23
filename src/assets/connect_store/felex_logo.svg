@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/felex_logo.279d8f47.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/connect_store/felex_logo.svg
+// module id = 1596
+// module chunks = 0

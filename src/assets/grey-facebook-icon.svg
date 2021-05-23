@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/grey-facebook-icon.320e16d9.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/grey-facebook-icon.svg
+// module id = 1580
+// module chunks = 0

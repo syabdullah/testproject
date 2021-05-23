@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/alert-icon.33436bba.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/alert-icon.svg
+// module id = 2097
+// module chunks = 0

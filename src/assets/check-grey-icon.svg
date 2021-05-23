@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/check-grey-icon.dc75af99.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/check-grey-icon.svg
+// module id = 1863
+// module chunks = 0
