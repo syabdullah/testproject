@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/yuspify-logo.b804314e.jpg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/yuspify-logo.jpg
+// module id = 2196
+// module chunks = 0

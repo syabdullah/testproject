@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/bg-healthcare.38a43be3.jpg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/component/modalConductor/topCategoriesModal/images/bg-healthcare.jpg
+// module id = 1844
+// module chunks = 0

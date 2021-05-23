@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/purple-help-center-icon.5a69f58a.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/purple-help-center-icon.svg
+// module id = 2006
+// module chunks = 0

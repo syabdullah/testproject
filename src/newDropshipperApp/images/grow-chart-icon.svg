@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/grow-chart-icon.2efe3fdb.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/grow-chart-icon.svg
+// module id = 1980
+// module chunks = 0

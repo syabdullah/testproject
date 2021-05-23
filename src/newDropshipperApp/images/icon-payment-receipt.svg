@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/icon-payment-receipt.56e24ff7.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/icon-payment-receipt.svg
+// module id = 2144
+// module chunks = 0

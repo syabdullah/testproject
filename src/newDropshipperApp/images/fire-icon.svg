@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/fire-icon.cfefe11b.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/fire-icon.svg
+// module id = 617
+// module chunks = 0

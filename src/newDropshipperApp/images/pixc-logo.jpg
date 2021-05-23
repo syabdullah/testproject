@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/pixc-logo.b462932b.jpg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/pixc-logo.jpg
+// module id = 2200
+// module chunks = 0

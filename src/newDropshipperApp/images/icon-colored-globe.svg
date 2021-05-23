@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/icon-colored-globe.007a5bca.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/icon-colored-globe.svg
+// module id = 2381
+// module chunks = 0

@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/recart-logo.88e7170b.jpg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/recart-logo.jpg
+// module id = 2188
+// module chunks = 0

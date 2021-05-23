@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/google-play-logo.cb93353e.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/google-play-logo.svg
+// module id = 2430
+// module chunks = 0

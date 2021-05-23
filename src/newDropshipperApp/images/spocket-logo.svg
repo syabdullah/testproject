@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/spocket-logo.e10a5a6d.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/spocket-logo.svg
+// module id = 156
+// module chunks = 0

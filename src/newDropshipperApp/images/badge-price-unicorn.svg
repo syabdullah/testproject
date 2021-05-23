@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/badge-price-unicorn.fe773db7.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/badge-price-unicorn.svg
+// module id = 1884
+// module chunks = 0

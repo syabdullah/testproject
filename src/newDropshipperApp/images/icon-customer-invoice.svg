@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/icon-customer-invoice.42986914.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/icon-customer-invoice.svg
+// module id = 2143
+// module chunks = 0

@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/bg-home-garden.bdc33edd.jpg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/component/modalConductor/topCategoriesModal/images/bg-home-garden.jpg
+// module id = 1843
+// module chunks = 0

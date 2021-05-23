@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/pause-store.7de150bd.png";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/pause-store.png
+// module id = 1817
+// module chunks = 0

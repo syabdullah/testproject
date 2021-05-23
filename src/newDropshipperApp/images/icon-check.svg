@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/icon-check.8159feec.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/newDropshipperApp/images/icon-check.svg
+// module id = 604
+// module chunks = 0

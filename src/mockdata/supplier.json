@@ -1,0 +1,8 @@
+module.exports = {"id":"caf41d3f-b8d6-4ca5-b24f-011c5bd58998","supplier_alias":"Sunflower","date_joined":"2018-07-20T16:31:07.265Z","ships_from":"United States","average_shipping_time":"1 day","reliability_score":97.50346740638003,"landing_page_header":null,"return_policy":"Returning with us is easy. \njust have your buyer return the item with your packing slip and we will do the rest. Our shipping costs are not refunded. Item must new and unworn with tags attached. Free from animal hair/cigarette smoke.  ","verified":true}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/mockdata/supplier.json
+// module id = 749
+// module chunks = 0
